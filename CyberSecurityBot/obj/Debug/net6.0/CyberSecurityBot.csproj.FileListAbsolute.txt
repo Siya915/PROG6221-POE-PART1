@@ -1,0 +1,15 @@
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\obj\Debug\net6.0\CyberSecurityBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\obj\Debug\net6.0\CyberSecurityBot.AssemblyInfoInputs.cache
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\obj\Debug\net6.0\CyberSecurityBot.AssemblyInfo.cs
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\obj\Debug\net6.0\CyberSecurityBot.csproj.CoreCompileInputs.cache
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\bin\Debug\net6.0\CyberSecurityBot.exe
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\bin\Debug\net6.0\greeting.wav
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\bin\Debug\net6.0\CyberSecurityBot.deps.json
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\bin\Debug\net6.0\CyberSecurityBot.runtimeconfig.json
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\bin\Debug\net6.0\CyberSecurityBot.dll
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\bin\Debug\net6.0\CyberSecurityBot.pdb
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\obj\Debug\net6.0\CyberSecurityBot.dll
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\obj\Debug\net6.0\refint\CyberSecurityBot.dll
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\obj\Debug\net6.0\CyberSecurityBot.pdb
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\obj\Debug\net6.0\CyberSecurityBot.genruntimeconfig.cache
+C:\Users\nemut\OneDrive\Desktop\School\CyberSecurityBot\obj\Debug\net6.0\ref\CyberSecurityBot.dll

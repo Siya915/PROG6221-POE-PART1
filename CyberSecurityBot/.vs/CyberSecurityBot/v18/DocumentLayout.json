@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\nemut\\onedrive\\desktop\\school\\cybersecuritybot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\nemut\\onedrive\\desktop\\school\\cybersecuritybot\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\nemut\\onedrive\\desktop\\school\\cybersecuritybot\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|c:\\users\\nemut\\onedrive\\desktop\\school\\cybersecuritybot\\cybersecuritybot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{69A1EFFC-D007-CA8E-AB96-8DD413F352A2}|CyberSecurityBot.csproj|solutionrelative:cybersecuritybot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatBot.cs",
+              "DocumentMoniker": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\ChatBot.cs",
+              "RelativeDocumentMoniker": "ChatBot.cs",
+              "ToolTip": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\ChatBot.cs",
+              "RelativeToolTip": "ChatBot.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:16:07.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\AudioPlayer.cs",
+              "RelativeToolTip": "AudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:00:00.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsciiArt.cs",
+              "DocumentMoniker": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\AsciiArt.cs",
+              "RelativeDocumentMoniker": "AsciiArt.cs",
+              "ToolTip": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\AsciiArt.cs",
+              "RelativeToolTip": "AsciiArt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:59:49.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CyberSecurityBot.csproj",
+              "DocumentMoniker": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\CyberSecurityBot.csproj",
+              "RelativeDocumentMoniker": "CyberSecurityBot.csproj",
+              "ToolTip": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\CyberSecurityBot.csproj",
+              "RelativeToolTip": "CyberSecurityBot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T15:59:33.242Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
