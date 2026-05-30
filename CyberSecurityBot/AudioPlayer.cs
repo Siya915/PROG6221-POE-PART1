@@ -1,23 +1,12 @@
-using System;
-using System.Diagnostics;
 using System.Media;
 
-public static class AudioPlayer
+namespace CyberSecurityBotGUI
 {
-    public static void PlayGreeting()
+    public static class AudioPlayer
     {
-        try
+        public static void PlayGreeting()
         {
-            Process.Start(new ProcessStartInfo
-            {
-                FileName = "wmplayer",
-                Arguments = "greeting.wav",
-                UseShellExecute = true
-            });
-        }
-        catch
-        {
-            Console.WriteLine("🔇 Audio file missing or failed to play.");
+            SystemSounds.Asterisk.Play();
         }
     }
 }

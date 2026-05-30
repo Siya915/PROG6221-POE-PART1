@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\CyberSecurityBot.csproj",
+      "projectUniqueName": "C:\\Users\\nemut\\OneDrive\\Desktop\\Siyabonga_Nemutavhanani_ST10495241\\PROG6221-POE-PART1\\CyberSecurityBot\\CyberSecurityBot.csproj",
       "projectName": "CyberSecurityBot",
-      "projectPath": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\CyberSecurityBot.csproj",
+      "projectPath": "C:\\Users\\nemut\\OneDrive\\Desktop\\Siyabonga_Nemutavhanani_ST10495241\\PROG6221-POE-PART1\\CyberSecurityBot\\CyberSecurityBot.csproj",
       "packagesPath": "C:\\Users\\nemut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nemut\\OneDrive\\Desktop\\School\\CyberSecurityBot\\obj\\",
+      "outputPath": "C:\\Users\\nemut\\OneDrive\\Desktop\\Siyabonga_Nemutavhanani_ST10495241\\PROG6221-POE-PART1\\CyberSecurityBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,15 +1,16 @@
 using System;
+using System.Windows.Forms;
 
-class Program
+namespace CyberSecurityBotGUI
 {
-    static void Main(string[] args)
+    internal static class Program
     {
-        Console.Title = "Cybersecurity Awareness Bot";
-
-        AudioPlayer.PlayGreeting();
-        AsciiArt.DisplayLogo();
-
-        ChatBot bot = new ChatBot();
-        bot.StartChat();
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
+        }
     }
 }
